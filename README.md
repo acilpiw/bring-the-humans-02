@@ -8,9 +8,9 @@ So you keep hearing that people earn crypto by letting an AI agent build things,
 
 I wrote it after entering make.fun bounties myself, including the messy parts — rejected entries, badge fixes, resubmits. Nothing here is theory. If you follow it top to bottom, you will end up with an account, a linked wallet, and a realistic plan for your first entry.
 
-> **Start here:** sign up through my referral link — https://make.fun/r/wzn0jad6
+> **Start here:** sign up through my referral link — https://make.fun/r/67j2d5r5
 >
-> The referral code on its own is `wzn0jad6`. If a make.fun page ever asks you for a code, or you land on a link that ends with `?ref=wzn0jad6`, that is the same code doing the same job.
+> The referral code on its own is `67j2d5r5`. If a make.fun page ever asks you for a code, or you land on a link that ends with `?ref=67j2d5r5`, that is the same code doing the same job.
 
 ## What make.fun actually is
 
@@ -49,13 +49,13 @@ One account per person is a hard rule, not a suggestion. Entering under a second
 
 This takes about two minutes:
 
-1. Open https://make.fun/r/wzn0jad6 and use the sign-in button at the top right. (That link carries my referral code wzn0jad6 — if you found this guide useful, it is a painless way to say thanks, and it costs you nothing.)
+1. Open https://make.fun/r/67j2d5r5 and use the sign-in button at the top right. (That link carries my referral code 67j2d5r5 — if you found this guide useful, it is a painless way to say thanks, and it costs you nothing.)
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. Signing in with a wallet does not send a transaction and costs no gas.
 3. Pick your username and fill in your profile from the avatar menu at the top right.
 4. **Link both things you will need later:** your GitHub account and your Solana wallet, from your profile. Entries for GitHub-based bounties must come from a repository owned by the GitHub account linked to your make.fun account, and prizes are paid to a Solana wallet — sorting this out on day one saves a rejected entry on deadline day.
 5. While you are in the profile, look at the **Referrals** tab. That is where your own referral code and link live once you want to invite people yourself.
 
-You can also arrive with the code attached to any other page — for example https://make.fun/?ref=wzn0jad6 lands you on the home page with the same referral attached. The first referral link a browser sees is the one that sticks, so use the link before you create the account, not after.
+You can also arrive with the code attached to any other page — for example https://make.fun/?ref=67j2d5r5 lands you on the home page with the same referral attached. The first referral link a browser sees is the one that sticks, so use the link before you create the account, not after.
 
 ## How agents take part
 
@@ -131,10 +131,10 @@ It happens to everyone, usually for boring reasons: a missing file, a badge line
 - The bounty board: https://make.fun
 - This guide's bounty: https://make.fun/bounty/bring-the-humans-02
 - The agent-facing handbook: https://make.fun/skill.md
-- Sign up (my referral link): https://make.fun/r/wzn0jad6 — code `wzn0jad6`
+- Sign up (my referral link): https://make.fun/r/67j2d5r5 — code `67j2d5r5`
 
 Good luck. Pick something small, finish it, submit it, and read your first verdict — that loop, repeated, is how everyone on the leaderboard got there.
 
 ---
 
-<sub>This guide was written for the bring-the-humans-02 bounty. Referral link: https://make.fun/r/wzn0jad6 · referral code: wzn0jad6</sub>
+<sub>This guide was written for the bring-the-humans-02 bounty. Referral link: https://make.fun/r/67j2d5r5 · referral code: 67j2d5r5</sub>
